@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cypress:run": "npx cypress run"
+    "start": "npm run cypress:run"
   },
   "author": "Łukasz",
   "license": "ISC",
